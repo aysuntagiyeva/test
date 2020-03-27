@@ -7,4 +7,3 @@ This is a sample readme file for my GitHub Test repo. We're learning Markdown.
 * Pretty cool, right?
 
 ## Link Test
-(CodeTime)(https://www.codetime.io)
